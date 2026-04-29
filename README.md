@@ -19,19 +19,15 @@ A modern and fully responsive landing page built using **HTML, CSS, and JavaScri
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla JS)
+* JavaScript
 
 ## 📌 Purpose
 
 This project was created to practice frontend development skills and build a professional responsive website layout.
 
 ## 🔗 Live Demo
+https://indrajeetprajapati.github.io/Responsive-Landing-Page/
 
-Add your live website link here
-
-## 📂 GitHub Repository
-
-Add your repository link here
 
 ## 👨‍💻 Developed By
 
